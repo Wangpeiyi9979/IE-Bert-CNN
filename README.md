@@ -32,7 +32,8 @@
 git clone https://github.com/Wangpeiyi9979/IE-Bert-CNN.git
 ```
 - 准备数据
-    在data/small/目录下创建`npy_data`
+    - 在这里[下载](https://pan.baidu.com/s/1DG1aVcDzbKG3ubkj8Q8nHQ)数据,提取码`59fg`。
+    - 解压数据，放在`data/small/origin_data/`文件夹下
 - 准备Bert预训练模型
     - 在这里[下载](https://pan.baidu.com/s/1EGkPB628ewXJhqqgrHBfDw), 提取码`uolz`。将下载后的压缩文件放在`bert-base-chinese`文件夹下
 - 回到主目录，执行
