@@ -11,6 +11,10 @@
 |—— |—— small #自己合并了实体类型的数据
 |—— |——|—— json_data  
 |—— |——|—— npy_data  
+|—— |——|——|——train
+|—— |——|——|——dev
+|—— |——|——|——test1
+|—— |——|——|——test2
 |—— |——|—— origin_data  # 存放原始数据
 |—— analysis_result.ipynb  # 用来分析错误结果
 |—— checkpoints # 存放训练模型参数
@@ -36,6 +40,7 @@ git clone https://github.com/Wangpeiyi9979/IE-Bert-CNN.git
     - 解压数据，放在`data/small/origin_data/`文件夹下
 - 准备Bert预训练模型
     - 在这里[下载](https://pan.baidu.com/s/1EGkPB628ewXJhqqgrHBfDw), 提取码`uolz`。将下载后的压缩文件放在`bert-base-chinese`文件夹下
+- 在data/small/目录下按项目结构中所示创建所需目录
 - 回到主目录，执行
 
 ```
