@@ -5,7 +5,7 @@
 |—— out         
 |—— bert-base-chinese 
 |—— |—— bert-base-chinese.tar.gz # bert预训练参数
-|—— |—— vocab_unk.txt # bert词典库
+|—— |—— vocab.txt # bert词典库
 |—— data        # 存放数据
 |—— |—— Data.py
 |—— |—— small #自己合并了实体类型的数据
