@@ -22,7 +22,6 @@
 |—— helpData.py # 数据预处理函数
 |—— mian.py     # 主函数
 |—— metrics.py  # 测评函数
-|—— app.py # Flask程序主入口
 |—— README.md
 ```
 # 项目环境(主要环境)
